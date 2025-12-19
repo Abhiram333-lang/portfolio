@@ -45,6 +45,20 @@ return (
                     <li>TailwindCSS</li>
                 </ul>
             </div>
+            <div className="project-card">
+                <h3 style={{textAlign:"center"}}>Movement-Dance-Studio--Community</h3><br />
+                <p>A React.js frontend project built with Vite using HTML, CSS, and modern JavaScript for a responsive web interface.</p>
+                <div className="links" style={{display:"flex",justifyContent:"space-between"}}>
+                    <a href="https://github.com/Abhiram333-lang/frontend">GitHub</a>
+                    
+                </div> <br />
+                <ul style={{display:"flex",justifyContent:"space-evenly",alignItems:"center"}}>
+                    <li>React.js</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    
+                </ul>
+            </div>
             
 
         </div>
